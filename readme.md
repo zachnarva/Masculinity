@@ -7,5 +7,6 @@
 <h3>Process</h3>
 
 <p>My data processing took a non-traditional form. My main goal for this project was to create an accessible narrative that men could read without feeling judged. I did a phenomenal amount of reading and critical thinking to build the structure and gather the content for the site. For the survey, I looked through a collection of other surveys relating to masculinity and interview questions and assembled a list of questions that will hopefully be as thought provoking for users as it is useful for gathering data. Post-visualization analysis can only being, as I have not yet received responses to my survey, but from the feedback given to my by Joey and my cohort mates, I have compiled a resource that I hope will prove helpful to different audiences of individuals raised as men. </p>
+<p>Through the process of assembling this website I got a ton of experience working with CSS, the entire site is build without the use of Javascript or another libray.</p>
 
 <a href="http://www.zachnarva.com/metrics">View my wireframe for this project.</a>
